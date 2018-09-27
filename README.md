@@ -1,1 +1,1 @@
-"# Random-Password-Generator" 
+python tkinter is used to create a window . Here we have used three type of password lower  , medium , upper . If user choose week then it will give random string of user entered length from lower type . 
